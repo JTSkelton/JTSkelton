@@ -1,23 +1,32 @@
-<h1 align="center">Hi 👋, I'm Jack Skelton</h1>
-<h3 align="center">I am a software developer and a lifelong builder of things</h3>
+# 👋 Hi I'm Jack 👋
 
-- 🔭 I’m currently studying **software development at Epicodus**
+## I'm a software developer and a lifelong builder
 
-- 🌱 I’m currently learning **ASP.NET, REACT, C#**
+### 📖 &nbsp;About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/JTSkelton?tab=repositories](https://github.com/JTSkelton?tab=repositories)
+🔭 I’m currently studying software development at coding bootcamp called <a href="https://www.epicodus.com/" target="_blank">Epicodus</a>.<br>
+🌱 I’m currently learning C#, ASP.NET, & REACT.<br>
+😄 Pronouns: He/Him.<br>
 
-- 📫 How to reach me **skelton.jt9@gmail.com**
+### 🛠 Skill Set
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jtskelton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jtskelton" height="30" width="40" /></a>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![C#](https://img.shields.io/badge/-CSharp-000?style=flat&logo=csharp&logoColor=9b4993)
+![DotnetCore](https://img.shields.io/badge/-.NETCore-000?style=flat&logo=.net&logoColor=0099e5)
+![Googling](https://img.shields.io/badge/-Googling-000?style=flat&logo=google&logoColor=ffffff)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📫 How to reach me:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtskelton&show_icons=true&locale=en&layout=compact" alt="jtskelton" /></p>
+<a href="https://www.linkedin.com/in/jtskelton/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:skelton.jt9@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtskelton&show_icons=true&locale=en" alt="jtskelton" /></p>
+### 📈 Some Fun Stats
 
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=jtskelton&show_icons=true&theme=dark" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtskelton&layout=compact&theme=dark" />
