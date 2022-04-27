@@ -1,6 +1,6 @@
 # 👋 Hi I'm Jack 👋
 
-## I'm a software developer and a lifelong builder
+## I'm a software developer and a lifelong builder of things!
 
 ### 📖 &nbsp;About Me
 
